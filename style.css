@@ -1,0 +1,26 @@
+.heading{
+    font-size: 30px;
+    width: 100%;
+    margin: 0px;
+}
+
+.note{
+    font-size: 15px;
+    color: maroon;
+}
+
+body{
+    background-size: cover;
+}
+
+canvas{
+    border: 5px dashed burlywood;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px gray;
+    margin-top: 85px;
+}
+
+.song_label{
+    font-size: 20px;
+}
+
